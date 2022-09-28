@@ -1,0 +1,98 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "John Wagner, Mariana Alfaro",
+    "title": "Post Politics Now: Biden returning to Washington with news on Ukraine aid, possibly student debt - The Washington Post",
+    "description": "The president is scheduled to be back at the White House on Wednesday after vacationing in Delaware. His administration is expected to make news on domestic and international issues.",
+    "url": "https://www.washingtonpost.com/politics/2022/08/24/biden-student-debt-ukraine-aid/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZP5THMAXM4I63OMYWKVWR5MENA.jpg&w=1440",
+    "publishedAt": "2022-08-24T12:43:04Z",
+    "content": "In the Pennsylvania Senate race, Democrat John Fetterman and Republican Mehmet Oz have traded barbs over crudite and veggie trays.\r\nThe latest flash point in the race is a statement from a senior Oz … [+1315 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "By <a href=\"/profiles/jessie-yeung\">Jessie Yeung</a>, <a href=\"/profiles/kathleen-magramo\">Kathleen Magramo</a>, Josh Berlinger, <a href=\"/profiles/aditi-sandal\">Aditi Sangal</a> and <a href=\"/profiles/adrienne-vogt\">Adrienne Vogt</a>, CNN",
+    "title": "6 months of Russia's war in Ukraine: Live updates - CNN",
+    "description": "Today marks six months of Russia's war in Ukraine as Kyiv warned that Moscow might attempt \"something particularly ugly\" for Ukraine's Independence Day on Wednesday, triggering the cancellation of celebrations. Follow live here.",
+    "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-08-24-22/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220717121721-zelensky-address-220717-screengrab-super-tease.jpeg",
+    "publishedAt": "2022-08-24T12:35:00Z",
+    "content": "Six months have passed since Russian President Vladimir Putin launched his unprovoked invasion of Ukraine, a war that by any conventional measure has been a calamity.\r\nCost to Russia: By the Pentagon… [+1763 chars]"
+    },
+    {
+    "source": {
+    "id": "axios",
+    "name": "Axios"
+    },
+    "author": "Andrew Solender",
+    "title": "Rep. Jerry Nadler defeats Rep. Carolyn Maloney in N.Y. House primary - Axios",
+    "description": "The showdown between two committee chairs garnered national attention.",
+    "url": "https://www.axios.com/2022/08/24/new-york-primary-results-carolyn-maloney-jerry-nadler",
+    "urlToImage": "https://images.axios.com/YkVHqI9YuqexdlQ5hNzuEzuSJQQ=/0x439:4198x2800/1366x768/2022/08/22/1661136091182.jpg",
+    "publishedAt": "2022-08-24T11:48:45Z",
+    "content": "Rep. Jerry Nadler (D-N.Y.) on Tuesday defeated Rep. Carolyn Maloney (D-N.Y.) in the Democratic primary for New York's 12th U.S. House District, according to the AP.\r\nWhy it matters: The result marks … [+1019 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Erica Lamberg",
+    "title": "With workplace's 'quiet quitting' trend, managers must be proactive, attentive - Fox Business",
+    "description": "The new 'quiet quitting' trend in the workplace has employers and HR professionals on alert. Here are some actions leaders can take in regard to this employee mindset.",
+    "url": "https://www.foxbusiness.com/lifestyle/workplaces-new-quiet-quitting-trend-employers-perspective",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/iStock-working-from-home.jpg?ve=1&tl=1",
+    "publishedAt": "2022-08-24T11:32:21Z",
+    "content": "\"Quiet quitting,\" today's newly emerging workplace mindset, describes employees who are doing the bare minimum at work by reducing their commitment, energy and productivity on the job.\r\nThe path thes… [+6717 chars]"
+    },
+    {
+    "source": {
+    "id": "nfl-news",
+    "name": "NFL News"
+    },
+    "author": "Jason McCourty",
+    "title": "Top 10 wide receivers entering the 2022 NFL season - NFL.com",
+    "description": "With today's high-flying NFL offenses, it's a golden era for pass catchers. So, who are the best wide receivers in football entering the 2022 season? Our resident cover man, Jason McCourty, ranks his top 10.",
+    "url": "https://www.nfl.com/news/top-10-wide-receivers-entering-the-2022-nfl-season",
+    "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/gjasg4gda1rufqj4zvkg",
+    "publishedAt": "2022-08-24T11:12:00Z",
+    "content": "NFL Network's \"Top 100 Players of 2022\" -- voted on by the players themselves -- concludes on Sunday, Aug. 28. Players ranked 20-1 will be revealed over the course of three hour-long episodes, beginn… [+9327 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Mattha Busby",
+    "title": "First Thing: Trump appears to concede he illegally retained official documents - The Guardian US",
+    "description": "Ex-president’s lawyers indicate he unlawfully kept government papers after losing election. Plus, a raw veg row",
+    "url": "https://amp.theguardian.com/us-news/2022/aug/24/first-thing-trump-appears-to-concede-he-illegally-retained-official-documents",
+    "urlToImage": "https://i.guim.co.uk/img/media/0da45dd5a9c8372953bdfbb5656c0cf33704e8b0/0_185_4038_2423/master/4038.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f055f7468476c7d3956f34349717b73",
+    "publishedAt": "2022-08-24T10:55:00Z",
+    "content": "Good morning.\r\nDonald Trumps lawyers have indicated that he unlawfully retained official government documents after losing the presidential election and not handing the papers over to national archiv… [+9143 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Anmar Frangoul",
+    "title": "Japan just signaled a big shift in its post-Fukushima future - CNBC",
+    "description": "Japan is targeting carbon neutrality by the year 2050.",
+    "url": "https://www.cnbc.com/2022/08/24/japan-just-signaled-a-big-shift-in-its-post-fukushima-future.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107108495-1661341564773-107108495-1661334836877-gettyimages-1242415005-JAPAN_CABINET.jpg?v=1661341602&w=1920&h=1080",
+    "publishedAt": "2022-08-24T10:44:18Z",
+    "content": "The prime minister of Japan said Wednesday that his country would restart more idled nuclear power plants and look into the feasibility of developing next-gen reactors.\r\nFumio Kishida's comments, rep… [+1722 chars]"
+    }
+    
+    ]
+    }
